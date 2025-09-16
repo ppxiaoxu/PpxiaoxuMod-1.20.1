@@ -1,5 +1,7 @@
 package com.ppxiaoxu;
 
+import com.ppxiaoxu.block.ModBlocks;
+import com.ppxiaoxu.item.ModItemGroups;
 import com.ppxiaoxu.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -22,5 +24,10 @@ public class Ppxiaoxumod implements ModInitializer {
 
 		LOGGER.info("Hello Fabric world!");
 		ModItems.registerModItems();
+		ModItemGroups.registerModItemGroups();
+		ModBlocks.registerModBlocks();
+		LOGGER.info("Hello Fabric world!");
 	}
+
+
 }

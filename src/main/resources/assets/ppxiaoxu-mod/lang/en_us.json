@@ -1,7 +1,11 @@
 {
   "item.ppxiaoxu-mod.ice_ether": "Ice Ether",
-  "item.ppxiaoxu-mod.raw_ice_eher": "Raw Ice Ether",
+  "item.ppxiaoxu-mod.raw_ice_ether": "Raw Ice Ether",
   "item.ppxiaoxu-mod.material.cardboard": "Cardboard",
-  "item.ppxiaoxu-mod.my_photo": "My Photo"
+  "item.ppxiaoxu-mod.my_photo": "My Photo",
+  "block.ppxiaoxu-mod.ice_ether_block": "Ice Ether Block",
+  "block.ppxiaoxu-mod.ice_ether_ore": "Ice Ether Ore",
+  "block.ppxiaoxu-mod.raw_ice_ether_block": "Raw Ice Ether Block",
+  "itemGroup.ppxiaoxu-mod.ppxiaoxu_mod": "Ppxiaoxu_Group"
 
 }
