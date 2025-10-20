@@ -6,6 +6,7 @@
   "block.ppxiaoxu-mod.ice_ether_block": "Ice Ether Block",
   "block.ppxiaoxu-mod.ice_ether_ore": "Ice Ether Ore",
   "block.ppxiaoxu-mod.raw_ice_ether_block": "Raw Ice Ether Block",
-  "itemGroup.ppxiaoxu-mod.ppxiaoxu_mod": "Ppxiaoxu_Group"
+  "itemGroup.ppxiaoxu-mod.ppxiaoxu_mod": "Ppxiaoxu_Group",
+  "item.ppxiaoxu-mod.acat": "Acat"
 
 }

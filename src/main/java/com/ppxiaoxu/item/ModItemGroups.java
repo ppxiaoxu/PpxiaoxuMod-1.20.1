@@ -37,6 +37,7 @@ public class ModItemGroups {
                    entries.add(ModBlocks.ICE_ETHER_BLOCK);
                    entries.add(ModBlocks.ICE_ETHER_ORE);
                    entries.add(ModBlocks.RAW_ICE_ETHER_BLOCK);
+                   entries.add(ModBlocks.ACAT);
                 }).build());
     }
 
